@@ -1,0 +1,12 @@
+# Editor
+.*.swp
+.*.swo
+*~
+\#*\#
+.\#*
+
+# Obsidian vault config (local machine-specific)
+.obsidian/
+
+# macOS
+.DS_Store
