@@ -10,3 +10,7 @@
 
 # macOS
 .DS_Store
+
+# External repos clonados dentro de stow/
+stow/nvim/
+stow/wallpapers/
