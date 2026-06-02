@@ -1,4 +1,4 @@
-# Dotfiles · Arch Linux
+# Dotfiles
 
 Configuración personal de mi sistema **Arch Linux** con KDE Plasma.
 
