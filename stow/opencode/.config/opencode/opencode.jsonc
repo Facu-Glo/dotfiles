@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "default_agent": "plan",
+  "agent": {
+    "plan": {
+      "color": "#ff966c"
+    },
+    "build": {
+      "color": "#c099ff"
+    }
+  }
+}
