@@ -1,0 +1,15 @@
+{
+    "search_paths": [
+        "~/"
+    ],
+    "ignore_paths": [
+        "node_modules",
+        ".venv",
+        "target",
+        ".local",
+        "kara",
+        ".cache",
+        "yay",
+        ".config"
+    ]
+}

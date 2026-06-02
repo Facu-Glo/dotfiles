@@ -1,0 +1,165 @@
+// CONFIGURACION ORIGINAL
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "padding": {
+            "top": 3,
+            "left": 3,
+            "right": 5
+        }
+    },
+    "modules": [
+        {
+            "type": "custom",
+            "format": "\u001b[90m┌──────────────────────Sistema───────────────────────┐"
+        },
+        {
+            "type": "os",
+            "key": "   OS",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "host",
+            "key": "    PC",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "kernel",
+            "key": "  Kernel",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "locale",
+            "key": "  Locale",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m└────────────────────────────────────────────────────┘"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m┌──────────────────────Hardware──────────────────────┐"
+        },
+        {
+            "type": "display",
+            "key": "  Pantalla",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "cpu",
+            "key": "  󰻠 CPU",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "gpu",
+            "key": "   GPU",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "memory",
+            "key": "  RAM",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "swap",
+            "key": "  Swap",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "disk",
+            "key": "   Disco",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "battery",
+            "key": "  Bateria",
+            "keyColor": "38;2;92;205;111"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m└────────────────────────────────────────────────────┘"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m┌────────────────────Terminal────────────────────────┐"
+        },
+        {
+            "type": "shell",
+            "key": "   Shell",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "terminal",
+            "key": "   Terminal",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "terminalfont",
+            "key": "  Fuente de terminal",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m└────────────────────────────────────────────────────┘"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m┌──────────────────────Software──────────────────────┐"
+        },
+        {
+            "type": "packages",
+            "key": "   Paquetes instalados",
+            "keyColor": "38;2;98;139;255"
+        },
+        {
+            "type": "de",
+            "key": "  DE",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "wm",
+            "key": "  WM",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "localip",
+            "key": "  Local IP (wlan0)",
+            "keyColor": "38;2;186;166;255"
+        },
+        "poweradapter",
+        {
+            "type": "wmtheme",
+            "key": "  WM Theme",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "font",
+            "key": "  Fuente",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "cursor",
+            "key": "  Cursor",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m└────────────────────────────────────────────────────┘"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m┌────────────────────Tiempo / Age────────────────────┐"
+        },
+        {
+            "type": "uptime",
+            "key": "    Tiempo",
+            "keyColor": "38;2;186;166;255"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m└────────────────────────────────────────────────────┘"
+        },
+        "colors"
+    ]
+}
